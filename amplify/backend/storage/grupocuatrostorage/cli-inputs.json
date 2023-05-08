@@ -1,0 +1,14 @@
+{
+  "resourceName": "grupocuatrostorage",
+  "policyUUID": "73404f05",
+  "bucketName": "amplifyreactgraphqlbd1cd5c60e56419e9255cfc06433",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
